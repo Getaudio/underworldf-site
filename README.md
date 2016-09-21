@@ -25,4 +25,4 @@ Contribuciones son bienvenidas. Por favor usa github o [contactanos](http://www.
  * [Frans185](http://frans.moe/) - Desarrollo Web / BD.
  * [Alv](https://github.com/alvaromonsalve) - Apoyo en el Codigo.  
  * Gospel - Apoyo en el Codigo.  
- * Getaudio - Apoyo en el codigo & BD.
+ * [Getaudio](https://github.com/Getaudio) - Apoyo en el codigo & BD.
